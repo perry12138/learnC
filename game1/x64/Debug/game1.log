@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+F:\data\code\VisualStudio2022WorkSpace\test11_2\game1\game1\test.c(17,24): error C2059: 语法错误:“常数”
+F:\data\code\VisualStudio2022WorkSpace\test11_2\game1\game1\test.c(17,29): error C2059: 语法错误:“常数”
+  正在生成代码...
